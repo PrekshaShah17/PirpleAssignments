@@ -1,0 +1,86 @@
+--------------------------------
+Artist: Taylor Swift
+Album: Taylor Swift
+Release Date: 2006-10-24
+________________________________
+
+
+1. Title: Tim McGraw
+   Duration: 234 seconds
+   Writer: Taylor Swift
+   % of Total: 9.64%
+
+
+2. Title: Picture to Burn
+   Duration: 174 seconds
+   Writer: Taylor Swift, Rose
+   % of Total: 7.17%
+
+
+3. Title: Teardrops on My Guitar
+   Duration: 235 seconds
+   Writer: Taylor Swift, Rose
+   % of Total: 9.68%
+
+
+4. Title: A Place in This World
+   Duration: 202 seconds
+   Writer: Taylor Swift, Rose
+   % of Total: 8.32%
+
+
+5. Title: Cold as You
+   Duration: 241 seconds
+   Writer: Taylor Swift, Rose
+   % of Total: 9.93%
+
+
+6. Title: Stay Beautiful
+   Duration: 238 seconds
+   Writer: Taylor Swift, Rose
+   % of Total: 9.8%
+
+--------------------------------
+Artist: Taylor Swift
+Album: Folklore
+Release Date: 2020-06-24
+________________________________
+
+
+7. Title: Peace
+   Duration: 220 seconds
+   Writer: Taylor Swift, Aaron Dessner
+   % of Total: 5.78%
+
+
+8. Title: My Tears Ricochet
+   Duration: 255 seconds
+   Writer: Taylor Swift, Aaron Dessner
+   % of Total: 6.69%
+
+
+9. Title: Seven
+   Duration: 208 seconds
+   Writer: Taylor Swift, Aaron Dessner
+   % of Total: 5.46%
+
+
+10. Title: Betty
+    Duration: 294 seconds
+    Writer: Taylor Swift, William Bowery
+    % of Total: 7.72%
+
+
+11. Title: Hoax
+    Duration: 220 seconds
+    Writer: Taylor Swift, Aaron Dessner
+    % of Total: 5.78%
+
+
+11. Title: Exile
+    Duration: 285 seconds
+    Writer: Taylor Swift, William Bowery, Justin Vernon
+    % of Total: 7.48%
+
+
+Process finished with exit code 0
